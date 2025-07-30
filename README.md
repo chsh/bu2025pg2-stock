@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 西村玲
-できてるかしら
+確認
