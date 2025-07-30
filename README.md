@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+サカモトミノリ　お腹がいっぱいで眠たいです
+坂元みのり　寒いです
