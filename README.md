@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+檀野千瑞子です。プログラミングは難しいですね33; ^^/
